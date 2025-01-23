@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cwyoan
-- 👀 I’m interested in learning code for web-proggraming
+- 👀 I’m interested in learning code for web-programming
 - 🌱 I’m currently learning languages like html, css, and javascript
 - 💞️ I’m looking to collaborate on anything that is related to web-development and programming
 - 📫 How to reach me: my email is yoan.castellanos@yahoo.com
